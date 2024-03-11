@@ -13,3 +13,8 @@ A aplicaçao consiste em uma tela inicial onde o usuario escolhera uma da opçõ
   
 ![image](https://github.com/Salatielbg/Cadastro-de-veiculos/assets/133972801/cd90545b-02fd-4418-bada-225cd0c635ec)
 
+
+- **Consultar Veiculos:** Aqui o usuario podera consultar os veiculos já cadastrados.
+
+<img src="https://github.com/Salatielbg/Cadastro-de-veiculos/assets/133972801/4251e518-66c9-44a4-bf62-6b428ed58f8a" alt="Texto alternativo" width="600px" height="400px">
+
