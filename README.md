@@ -23,4 +23,20 @@ A aplicaçao consiste em uma tela inicial onde o usuario escolhera uma da opçõ
 
     <img src="https://github.com/Salatielbg/Cadastro-de-veiculos/assets/133972801/30c2c63e-cc92-4274-94dc-c6caf1641cf6" width="500px" style="width: auto; height: 400px;">
 
+    - **Relatorio Geral:** Esse relatorio ira criar uma planilha com todas as informações de todos os veiculos.
+      
+        ![image](https://github.com/Salatielbg/Cadastro-de-veiculos/assets/133972801/ad4352f0-af1c-4a21-a05d-5a4585edd04f)
+
+    - **Relatorio Filtrado:** Essa opção ir abrir uma tela para escolher um filtro com o tipo de compra. Assim ira criar uma planilha com informações filtradas de todos os veiculos.
+      
+         ![image](https://github.com/Salatielbg/Cadastro-de-veiculos/assets/133972801/26cc45d1-2562-4815-8d2b-909182ddf4c1)
+      - **Relatorio Filtrado:** 
+          ![image](https://github.com/Salatielbg/Cadastro-de-veiculos/assets/133972801/372aff8d-8d51-47f7-b389-ef52da7c235d)
+
+
+
+          
+
+  
+      
 
