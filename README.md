@@ -1,10 +1,12 @@
-## Cadastro de veiculos utilizando CRUD
-
-Esse codigo foi desenvolvido para um trabalho da faculdade para utilizar o CRUD em um banco de dados SQL.
-
-A aplicaçao consiste em uma tela inicial onde o usuario escolhera uma da opções e fara uma das opçoes descritas.
-
-- **Tela Inicial:** Na tela inicial o usuario possui três opçoes, sendo elas: Cadastrar Veiculos, Consultar veiculos e relatorio.
+<body>
+    <header>
+        <h1>Cadastro de veiculos utilizando CRUD</h1>
+        <h2>Esse codigo foi desenvolvido para um trabalho da faculdade para utilizar o CRUD em um banco de dados SQL.<br><br>
+            A aplicaçao consiste em uma tela inicial onde o usuario escolhera uma da opções e fara uma das opçoes descritas.
+        </h2>
+    </header>
+    <main>
+    <h3><b>Tela Inicial:</b> Na tela inicial o usuario possui três opçoes, sendo elas: Cadastrar Veiculos, Consultar veiculos e relatorio.</h3>
 
     <img src="https://github.com/Salatielbg/Cadastro-de-veiculos/assets/133972801/dc7d1f05-9952-45cd-b689-8b8f349bf7dc" width="500px" style="width: auto; height: 400px;">
 
@@ -30,13 +32,19 @@ A aplicaçao consiste em uma tela inicial onde o usuario escolhera uma da opçõ
     - **Relatorio Filtrado:** Essa opção ir abrir uma tela para escolher um filtro com o tipo de compra. Assim ira criar uma planilha com informações filtradas de todos os veiculos.
       
          ![image](https://github.com/Salatielbg/Cadastro-de-veiculos/assets/133972801/26cc45d1-2562-4815-8d2b-909182ddf4c1)
-      - **Relatorio Filtrado:** 
-          ![image](https://github.com/Salatielbg/Cadastro-de-veiculos/assets/133972801/372aff8d-8d51-47f7-b389-ef52da7c235d)
+      **Relatorio Filtrado por compra externa**
+               ![image](https://github.com/Salatielbg/Cadastro-de-veiculos/assets/133972801/22ec471a-d710-4b6f-b119-759a1484a810)
 
-
-
-          
+      **Relatorio Filtrado por produçao propria**
+                ![image](https://github.com/Salatielbg/Cadastro-de-veiculos/assets/133972801/d62093b8-8b1f-4338-9ad0-d09abac57145)        
 
   
       
 
+        
+    </main>
+
+
+
+
+</body>
